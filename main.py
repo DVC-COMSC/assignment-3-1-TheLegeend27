@@ -1,3 +1,4 @@
+def main():
     ##################################################
     # Comlete your code here
     ##################################################
@@ -27,5 +28,5 @@
     # else:
     #     print (f'{n3} is the smallest number')
 
-if name == 'main':
+if __name__ == '__main__':
     main()
